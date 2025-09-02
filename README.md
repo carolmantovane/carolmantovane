@@ -1,7 +1,7 @@
 <!---ESTE ARQUIVO É PARA CONFIGURAR SEU PERFIL DO GITHUB, PREENCHA COM SEUS DADOS. Para que ele seja visto como seu perfil, é preciso criar um repositório público com o seu nome de usuário e salvar com o nome README.md--->
 <!---SEUNOME--->
 <div dsplay="inline-block">
-<h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
+<h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/happy.gif" width="30px"></h3>
 Bem vindos ao meu resposítório Github!
 <h4>Eu sou Carolina</h4> 
 
@@ -47,6 +47,7 @@ Bem vindos ao meu resposítório Github!
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
+
 
 
 
